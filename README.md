@@ -102,11 +102,7 @@ Engages or bypasses the effect.
 ## Philosophy
 
 FALA was not designed to be perfect.
-The modulation drifts.
-The clock is not entirely stable.
-There is a little noise.
-A little movement.
-A little unpredictability.
+The modulation drifts, the clock is not entirely stable. There is a little noise and a little unpredictability.
 FALA aims for personality.
 Turn a knob.
 Play a chord.
