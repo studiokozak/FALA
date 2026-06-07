@@ -102,15 +102,11 @@ Engages or bypasses the effect.
 ## Philosophy
 
 FALA was not designed to be perfect.
-
 The modulation drifts.
 The clock is not entirely stable.
 There is a little noise.
 A little movement.
 A little unpredictability.
-
-Just enough to remind you that music is made by humans, not oscilloscopes.
-Many modern chorus effects aim for precision.
 FALA aims for personality.
 Turn a knob.
 Play a chord.
